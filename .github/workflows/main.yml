@@ -55,3 +55,4 @@ jobs:
         with:
           push: true
           tags: ваш-логин-на-docker-hub/ваш-репозиторий-на-docker-hub:latest
+
