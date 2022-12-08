@@ -70,3 +70,4 @@ jobs:
           sudo docker pull vlad152777/infra_actions
           sudo docker stop $(sudo docker ps -a -q)
           sudo docker run --rm -d -p 5000:5000 vlad152777/infra_actions
+          
