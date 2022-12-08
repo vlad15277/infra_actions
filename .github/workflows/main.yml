@@ -54,7 +54,7 @@ jobs:
         uses: docker/build-push-action@v2 
         with:
           push: true
-          tags: vlad15277/infra_actions:latest
+          tags: vlad152777/infra_actions:latest
   
   deploy:
     runs-on: ubuntu-latest
